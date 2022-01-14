@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "JESUS, Guilherme H. S. <guilherme26h@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.1",
     "express": "^4.17.2",
