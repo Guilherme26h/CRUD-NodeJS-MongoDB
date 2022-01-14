@@ -10,7 +10,7 @@
  * MongoDB - Banco de dados
  * POSTMAN
 
-##Dificuldades
+## Dificuldades
 
 <p>Devido ao primeiro contato com a ferramenta a dificuldade maior foi efetuar o crud utilizando os conceitos da biblioteca mongoose, após entender a lógica o processo foi simplificado e rapido, trazendo assim o sucesso para a aplicação.
   
