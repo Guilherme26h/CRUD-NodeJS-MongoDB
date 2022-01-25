@@ -19,3 +19,7 @@
   
   > Para ser efetuada a conexão com o banco de dados local deve ser referenciada o campo de HOST dentro do arquivo .env.
   > Como se trata de uma api de conexão com o banco de dados o frontend não foi criado, para ser utilizado em testes pode-se utilizar a ferramenta POSTMAN para o teste das requisições http
+
+  ## NPM
+  
+   > npm i express mongoose
